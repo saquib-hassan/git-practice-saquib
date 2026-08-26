@@ -10,3 +10,4 @@ sub_result = utils.subtract(10, 5)
 
 print(f"10 + 5 = {sum_result}")
 print(f"10 - 5 = {sub_result}")
+print("10 * 5 =", utils.multiply(10, 5))
