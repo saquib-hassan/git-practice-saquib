@@ -1,8 +1,15 @@
-# Git Practice Project
+# Git & GitHub Practical Assignment
 
-**Name:** Saquib Hassan
+**Full Name:** Saquib Al Hassan  
+**GitHub Username:** saquib-hassan
 
-**Description:** A simple Python project to practice Git commands, branching, and GitHub workflows.
+**Repository:** https://github.com/saquib-hassan/git-practice-saquib/tree/main
+
+---
+
+## Project Description
+
+A Python project demonstrating Git version control, branching, merging, and GitHub workflows.
 
 ## How to Run
 
